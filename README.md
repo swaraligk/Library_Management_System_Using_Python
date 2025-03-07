@@ -1,7 +1,3 @@
-Here's a well-structured **`README.md`** file for your **Library Management System using Python Tkinter** to boost your GitHub profile and help you land a high-paying job.  
-
----
-
 ### 📚 Library Management System using Python (Tkinter)  
 
 #### 📖 Introduction  
